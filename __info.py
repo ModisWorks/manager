@@ -27,7 +27,7 @@ COMMANDS = {
         "level": 0
     }
 }
-DATA_SERVER = {
+DATA_GUILD = {
     "warnings_max": 3,
     "warnings": {},
 }
